@@ -1,0 +1,11 @@
+{
+    "name": "mengwei/simple-class",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mengwei Choong",
+            "email": "choongmengwei@gmail.com"
+        }
+    ],
+    "require": {}
+}
